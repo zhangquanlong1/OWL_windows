@@ -42,5 +42,6 @@
 | ​**扩展能力**      | 自定义工具开发         | 封闭生态         |
 
 ## ** 联系我 **
-[联系我]: [https://example.com/logo.png](https://github.com/zhangquanlong1/OWL_windows/blob/main/assets/%E8%81%94%E7%B3%BB%E6%88%91.jpg) "联系我"
+[![产品图](联系我.jpg)]([https://example.com/product](https://github.com/zhangquanlong1/OWL_windows/blob/main/assets/%E8%81%94%E7%B3%BB%E6%88%91.jpg))
+https://github.com/zhangquanlong1/OWL_windows/blob/main/assets/%E8%81%94%E7%B3%BB%E6%88%91.jpg
 
