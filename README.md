@@ -40,3 +40,6 @@
 | ​**浏览器控制**    | Playwright 集成        | 私有方案         |
 | ​**任务分解**      | 动态智能体协作         | 固定流程         |
 | ​**扩展能力**      | 自定义工具开发         | 封闭生态         |
+
+## ** 联系我 **
+https://github.com/zhangquanlong1/OWL_windows/blob/main/assets/%E8%81%94%E7%B3%BB%E6%88%91.jpg
